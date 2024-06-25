@@ -1,7 +1,7 @@
 // for more details watch the file `./domains.d.ts`
 
 addSubDomain({
-  description: 'Blog', // describe your project in this field
+  description: 'personal project like blog, file sharing app or chat server', // describe your project in this field
   domain: 'is-an.app', // aka "root-domain". select between '1bt.uk' and 'is-an.app'
   subdomain: '*.zenith', // desired subdomain name
   owner: {
